@@ -1,138 +1,138 @@
 TRANSLATIONS = {
-	"Add addresses of delivery and indicate time range to visit them.": "",
+	"Add addresses of delivery and indicate time range to visit them.": "Lisa tarneaadressid ja määra ajavahemik nende külastamiseks.",
 
-	"Add address": "",
+	"Add address": "Lisa aadress",
 
-	"Delivery address:": "",
+	"Delivery address:": "Tarneaadress",
 
-	"Deliver from:&nbsp;": "",
+	"Deliver from:&nbsp;": "Tarni&nbps-st",
 
-	"&nbsp;to:&nbsp;": "",
+	"&nbsp;to:&nbsp;": "&nbsp;kuni:&nbsp;-ni",
 
-    "Mon": "",
+    "Mon": "E",
 
-    "Tue": "",
+    "Tue": "T",
 
-    "Wed": "",
+    "Wed": "K",
 
-    "Thu": "",
+    "Thu": "N",
 
-    "Fri": "",
+    "Fri": "R",
 
-    "Sat": "",
+    "Sat": "L",
 
-    "Sun": "",
+    "Sun": "P",
 
-	"h": "",
+	"h": "h",
 
-	"m": "",
+	"m": "m",
 
-	"weeks": "",
+	"weeks": "nädalad",
 	
-	"Stay duration, min:&nbsp;": "",
+	"Stay duration, min:&nbsp;": "Peatuse kestvus, minimaalselt:&nbsp",
 
-	"Speed, km/h:": "",
+	"Speed, km/h:": "Kiirus, km/h:",
 
-	"Lock first address": "",
+	"Lock first address": "Lukusta esimene aadress",
 
-	"Lock last address": "",
+	"Lock last address": "Lukusta viimane aadress",
 
-	"Stick to schedule": "",
+	"Stick to schedule": "Pea kinni ajakavast",
 
-	"Snap to roads": "",
+	"Snap to roads": "Siduda teedega",
 
-	"Routing provider:": "",
+	"Routing provider:": "Marsruudi pakkuja:",
 
-	"Calculate": "",
+	"Calculate": "Arvuta",
 
-	"Show on map": "",
+	"Show on map": "Näita kaardil",
 
-	"Print": "",
+	"Print": "Prindi",
 
-	"Save in Wialon": "",
+	"Save in Wialon": "Salvesta Wialoni",
 	
-	"Address": "",
+	"Address": "Aadress",
 
-	"Time": "",
+	"Time": "Aeg",
 
-	"Interval": "", 
+	"Interval": "Intervall", 
 
-	"Distance": "",
+	"Distance": "Vahemaa",
 	
-	"Total:": "",
+	"Total:": "Kokku:",
 
-	"Unable to connect to the server.": "",
+	"Unable to connect to the server.": "Ei saa serveriga ühendust.",
 	
-	"Error when working with Yandex Maps.": "",
+	"Error when working with Yandex Maps.": "Viga põhjustatud Yandex Maps kasutamisest.",
 
-	"Unable to calculate the route: check input data.": "",
+	"Unable to calculate the route: check input data.": "Ei saa marsruuti luua: kontrolli sisendandmeid.",
 
-	"Unable to optimize the route: not enough time to visit all points. Required:": "",
+	"Unable to optimize the route: not enough time to visit all points. Required:": "Ei saa marsruuti optimiseerida: pole piisavalt aega kõikide punktide külastamiseks. Vajalik:",
 
-	"Unable to calculate the route: no roads available.": "",
+	"Unable to calculate the route: no roads available.": "Ei saa marsruuti luua: ühtegi teed pole saadaval.",
 
-	"Progress:": "",
+	"Progress:": "Progress:",
 
-	"Route": "",
+	"Route": "Marsruut",
 
-	"Unable to save the route to Wialon.": "",
+	"Unable to save the route to Wialon.": "Ei saa marsruuti Wialoni salvestada.",
 
-	"Optimized schedule": "",
+	"Optimized schedule": "Optimiseeritud graafik",
 
-	"Route saved to Wialon.": "",
+	"Route saved to Wialon.": "Marsruut salvestatud Wialoni.",
 
-	"Delivery service": "",
+	"Delivery service": "Tarneteenus",
 
-	"Add from map": "",
+	"Add from map": "Lisa kaardilt",
 
-	"Add from geofences": "",
+	"Add from geofences": "Lisa geopiirkondadest",
 
-	"Add from POIs": "",
+	"Add from POIs": "Lisa huvipunktidest",
 
-	"Delete address": "",
+	"Delete address": "Kustuta aadress",
 
-	"Save": "",
+	"Save": "Salvesta",
 
-    "ft": "",
+    "ft": "jalga",
 
-    "km/h": "",
+    "km/h": "km/h",
 
-    "mph": "",
+    "mph": "miili tunnis",
 
-    "km": "",
+    "km": "km",
 
-    "mi": "",
+    "mi": "mi",
 
-    "Sunday": "",
-    "Monday": "",
-    "Tuesday": "",
-    "Wednesday": "",
-    "Thursday": "",
-    "Friday": "",
-    "Saturday": "",
+    "Sunday": "Pühapäev",
+    "Monday": "Esmaspäev",
+    "Tuesday": "Teisipäev",
+    "Wednesday": "Kolmapäev",
+    "Thursday": "Neljapäev",
+    "Friday": "Reede",
+    "Saturday": "Laupäev",
 
-    "January": "",
-    "February": "",
-    "March": "",
-    "April": "",
-    "May": "",
-    "June": "",
-    "July": "",
-    "August": "",
-    "September": "",
-    "October": "",
-    "November": "",
-    "December": "",
+    "January": "Jaanuar",
+    "February": "Veebruar",
+    "March": "Märts",
+    "April": "Aprill",
+    "May": "Mai",
+    "June": "Juuni",
+    "July": "Juuli",
+    "August": "August",
+    "September": "September",
+    "October": "Oktoober",
+    "November": "November",
+    "December": "Detsember",
 
-    "Jan": "",
-    "Feb": "",
-    "Mar": "",
-    "Apr": "",
-    "Jun": "",
-    "Jul": "",
-    "Aug": "",
-    "Sep": "",
-    "Oct": "",
-    "Nov": "",
-    "Dec": ""
+    "Jan": "Jaan",
+    "Feb": "Veebr",
+    "Mar": "Märts",
+    "Apr": "Apr",
+    "Jun": "Juuni",
+    "Jul": "Juuli",
+    "Aug": "Aug",
+    "Sep": "Sept",
+    "Oct": "Okt",
+    "Nov": "Nov",
+    "Dec": "Dets"
 };
